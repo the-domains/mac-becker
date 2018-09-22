@@ -1,11 +1,5 @@
-name: MAC Becker
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6347835c-d058-4f2b-a264-78b7af35944a.jpg
 layout_spectrum: 0.09975412752543862
 typography_spectrum: 0.33907529659320296
-opengraph:
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#FF6138'
@@ -17,6 +11,12 @@ color:
   lightness: 0.6961931253530749
   saturation: 0.011367956116371373
   rhythmicContrast: 0.907657533543793
+name: MAC Becker
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6347835c-d058-4f2b-a264-78b7af35944a.jpg
+opengraph:
+  type: ''
+  appId: ''
 purpose:
   - type: contact
     label: MAC Becker Mail
