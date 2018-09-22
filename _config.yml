@@ -1,0 +1,42 @@
+name: MAC Becker
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6347835c-d058-4f2b-a264-78b7af35944a.jpg
+layout_spectrum: 0.09975412752543862
+typography_spectrum: 0.33907529659320296
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.3087498726051227
+  lightness: 0.6961931253530749
+  saturation: 0.011367956116371373
+  rhythmicContrast: 0.907657533543793
+purpose:
+  - type: contact
+    label: MAC Becker Mail
+    url: 'mailto:rbprivattraining@gmail.com'
+title: Medical Athlet Coach
+description: René Becker
+author:
+  name: René Becker
+  email: rbprivattraining@gmail.com
+content_rating:
+  adult: false
+navigation:
+  - name: Ernährung und Supps
+    id: 97d64510-c4c8-405a-b14b-cdac56f347f2
+    type: content
+  - name: NAC 2015
+    id: 9aed760f-107b-4e81-bb88-7b3d7eec5ad8
+    type: content
+  - name: Motivation und Grundsätzliches
+    id: a75df728-6007-44b8-8874-ad297bcc5fe6
+    type: content
+content: []
+github: true
